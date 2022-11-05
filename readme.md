@@ -2,6 +2,10 @@
 
 - This is a Autocomplete Search app.
 
+[Netlify](https://autocompletesearch-harshcodes.netlify.app/)
+
+![](https://img.shields.io/badge/Netlify-Link-green)
+
 ![Autocomplete Search](/images/autocomplete.png)
 
 ---
